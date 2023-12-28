@@ -8,8 +8,8 @@ Dataset:
 Framework:
   
 Result:
-  In cross-validation, the AUROC for 2OM-Am, 2OM-Gm, 2OM-Gm and 2OM-Tm are , , , and ,respectively.
-  On the testing set, the AUROC achieved , , , and  for 2OM-Am, 2OM-Gm, 2OM-Gm and 2OM-Tm,respectively.
+  In cross-validation, the AUROC for 2OM-Am, 2OM-Gm, 2OM-Gm and 2OM-Tm are 0.882, 0.882, 0.900 and 0.800,respectively.
+  On the testing set, the AUROC achieved 0.916, 0.912, 0.932, and 0.841 for 2OM-Am, 2OM-Gm, 2OM-Gm and 2OM-Tm,respectively.
 
 Prediction Tool:
 
